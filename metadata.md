@@ -121,7 +121,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/JuliaaNbr/DHd-Workshop/releases/tag/v1.0.2">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 5_v1.0.2</a>
+         <a href="https://github.com/JuliaaNbr/DHd-Workshop/releases/tag/v1.0.3">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 7_v1.0.3</a>
       </li>
       <li>
          <a href="https://github.com/JuliaaNbr/DHd-Workshop/releases">Version archive</a>
